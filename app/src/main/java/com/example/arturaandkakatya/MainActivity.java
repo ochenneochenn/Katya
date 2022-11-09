@@ -25,5 +25,7 @@ public class MainActivity extends AppCompatActivity {
         therdCat.poroda = "Sphinx";
         therdCat.colour = "pink";
         therdCat.talk();
+
+
     }
 }
